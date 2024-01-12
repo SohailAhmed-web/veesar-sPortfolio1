@@ -25,10 +25,14 @@ function Projects() {
             <ProjectCard
               imgPath={chatify}
               isBlog={false}
-              title="Chatify"
-              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
-              ghLink="https://github.com/soumyajit4419/Chatify"
-              demoLink="https://chatify-49.web.app/"
+              title="QuickBiteCafe"
+              description="QuickBite Cafe is a fully functional site where you can find best menue that contain variety of food items and dessert. This website is build with JavaScript, CSS and HTML. QuickBiteCafe is your urban refuge for swift, gourmet indulgence. Discover a menu brimming with delectable sandwiches, salads, and premium beverages. Savor quick bites without compromising on quality in a vibrant ambiance.
+
+
+
+
+              "
+              ghLink="https://github.com/Veesar-sWeb/SohailAhmed"
             />
           </Col>
 
@@ -36,10 +40,10 @@ function Projects() {
             <ProjectCard
               imgPath={bitsOfCode}
               isBlog={false}
-              title="Bits-0f-C0de"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
-              demoLink="https://blogs.soumya-jit.tech/"
+              title="GadgetsGroove"
+              description="This website is built to make things easier for you to purchase at your doorsteps, especially mobile accessories, gaming, and laptops. It is build using ReactJS and provide a great deal of functionality as it is integerated firebase database"
+              ghLink="https://github.com/Web-Development-Project-Series/GadgetGroove-Semester-Project-"
+              demoLink="https://semester-project-tau.vercel.app/home"
             />
           </Col>
 
@@ -47,10 +51,10 @@ function Projects() {
             <ProjectCard
               imgPath={editor}
               isBlog={false}
-              title="Editor.io"
-              description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
-              ghLink="https://github.com/soumyajit4419/Editor.io"
-              demoLink="https://editor.soumya-jit.tech/"              
+              title="Web3Makr"
+              description="This Web3Makr is a fully responsive website that is about web 3.0. The main motive it carries to made valuable contributions and web projects related to bitcoin and crypto currency."
+              ghLink="https://github.com/SohailAhmed-web/webFinalExam1"
+              demoLink="https://web-final-exam1.vercel.app/"
             />
           </Col>
 
@@ -58,10 +62,10 @@ function Projects() {
             <ProjectCard
               imgPath={leaf}
               isBlog={false}
-              title="Plant AI"
-              description="Used the plant disease dataset from Kaggle and trained a image classifer model using 'PyTorch' framework using CNN and Transfer Learning with 38 classes of various plant leaves. The model was successfully able to detect diseased and healthy leaves of 14 unique plants. I was able to achieve an accuracy of 98% by using Resnet34 pretrained model."
-              ghLink="https://github.com/soumyajit4419/Plant_AI"
-              demoLink="https://plant49-ai.herokuapp.com/"
+              title="BISE Sukkur"
+              description="This website is the updated version of the traditional non functional website. We have added responsiveness and fully functional frontend design that can be implemented if find a proper agreement with board team. This site is buid using HTML, CSS, ans Bootstarp."
+              ghLink="https://github.com/SohailAhmed-web/BISE-Sukkur"
+              demoLink=""
             />
           </Col>
 
@@ -69,10 +73,10 @@ function Projects() {
             <ProjectCard
               imgPath={suicide}
               isBlog={false}
-              title="Ai For Social Good"
-              description="Using 'Natural Launguage Processing' for the detection of suicide-related posts and user's suicide ideation in cyberspace  and thus helping in sucide prevention."
-              ghLink="https://github.com/soumyajit4419/AI_For_Social_Good"
-              // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
+              title="Todo List Website"
+              description="This todo lsit website is to build for the track record of daily activities. This is very impactful in implementing daily routine effectively in order to improve the performance and maintain accordingly. This website is created using 100% JavaScript."
+              ghLink="https://github.com/SohailAhmed-web/TodoList-Template"
+            // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
             />
           </Col>
 
@@ -80,11 +84,11 @@ function Projects() {
             <ProjectCard
               imgPath={emotion}
               isBlog={false}
-              title="Face Recognition and Emotion Detection"
+              title="Face Recognition System"
               description="Trained a CNN classifier using 'FER-2013 dataset' with Keras and tensorflow backened. The classifier sucessfully predicted the various types of emotions of human. And the highest accuracy obtained with the model was 60.1%.
               Then used Open-CV to detect the face in an image and then pass the face to the classifer to predict the emotion of a person."
-              ghLink="https://github.com/soumyajit4419/Face_And_Emotion_Detection"
-              // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
+              ghLink="https://github.com/FYP-VISION-FOR-BLIND"
+            // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
             />
           </Col>
         </Row>
